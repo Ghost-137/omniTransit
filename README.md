@@ -100,12 +100,13 @@ Hit **Send** to view the structured JSON response detailing the exact transit le
 
 ![API Response in Postman](image.png)
 
-## References & Documentation
+### References & Documentation
 
+```
 * **Digitransit Developer API:** Primary documentation for the GraphQL routing endpoints, custom map tiles, and geocoding. https://digitransit.fi/en/developers/apis/1-routing-api/
 * **Expo Documentation:** Used for accessing native device hardware including `expo-location` and `expo-local-authentication`. https://github.com/expo/expo/tree/main/packages/expo-local-authentication
 * **React Navigation:** Used for architecting the nested Stack and Bottom Tab navigators.
 * **AsyncStorage:** Used for persistent local data storage.
 
 * **
-```
+```markdown
